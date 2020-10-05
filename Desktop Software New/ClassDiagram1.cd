@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ePOSOne.btnProduct.Button_WOC" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACIQAAIEAiAAAACAAIAAAACAFEAAAAAAII=</HashCode>
+      <FileName>Button_WOC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.class_Timer" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>class_Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.classDirectory" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>classDirectory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.Form1" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAACAAABAAAACAAAACEAAQAAAAQCQAAQBQAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.START" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABAAAACAAAACAAAIAAAAAMAAAABgAAA=</HashCode>
+      <FileName>START.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.UC_Experienced_Page" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAACAAAAAgAACAAIQCAAA4AABAAMAAAIBAAAA=</HashCode>
+      <FileName>UC_Experienced_Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.UC_First_Page" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>UC_First_Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.UC_New_To_Program" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQCAAAACAAAAAgCACAAMECAAQigEBAAcAEgSAQAAA=</HashCode>
+      <FileName>UC_New_To_Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.UC_Single_Cl_Balance" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>UC_Single_Cl_Balance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.UC_Single_Cl_Mobility" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>UC_Single_Cl_Mobility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.UC_Single_Cl_Strength" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>UC_Single_Cl_Strength.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop_Software_New.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
